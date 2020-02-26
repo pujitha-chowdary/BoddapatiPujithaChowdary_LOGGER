@@ -1,0 +1,53 @@
+Entered into main() method
+
+To calculate Simple Interest:
+
+Entered into calculateSimpleInterest() method of APP.JAVA class
+
+Enter the values to calculate simple interest:
+What amount of money is loaned or borrowed?
+What is the interest rate (in percent) attached to this money?
+After how much time(in years) do you want to know what your interest will be?
+Entered into main() method
+
+To calculate Simple Interest:
+
+Entered into calculateSimpleInterest() method of APP.JAVA class
+
+Enter the values to calculate simple interest:
+What amount of money is loaned or borrowed?
+What is the interest rate (in percent) attached to this money?
+After how much time(in years) do you want to know what your interest will be?
+Exited from calculateSimpleInterest() method of APP.JAVA class
+
+Simple interest is : 25.0
+
+To calculate Compound Interest:
+
+Entered into calculateCompoundInterest() method of APP.JAVA class
+
+Enter the values to calculate compound interest:
+What amount of money is loaned or borrowed?
+What is the interest rate (in percent) attached to this money?
+After how much time(in years) do you want to know what your interest will be?
+Enter the number of times that interest is compounded per unit time:
+Exited from calculateCompoundInterest() method of APP.JAVA class
+
+
+Compound Interest after 5 years is : 9545.0938424492 (without principal amount)
+
+To calculate House Construction Cost : 
+
+Entered into calculateConstructionCost() method of APP.JAVA class
+
+Enter total area of the house:
+Choose the standard of materials from the options given below:
+1.Standard Material
+2.Above Standard Material
+3.High Standard Material
+Enter your choice:
+Exited from calculateConstructionCost() method of APP.JAVA class
+
+Total Construction Cost of House: Rs.180000.0/-
+
+Exited from main() method
